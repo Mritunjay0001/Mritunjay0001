@@ -28,9 +28,9 @@
   
  
 
-<a href="https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" target="blank"><img align="center" src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" height="30" width="100" /></a>
-     <a href="https://github.com/vaishu0428" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/vaishu0428" height="30" width="100" /></a>
-  <a href="vaishnvischaudhari28@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="vaishnvischaudhari28@gmail.com" height="30" width="100" /></a>
+<a href="https://www.linkedin.com/in/akshay-chauhan-6911561b0/" target="blank"><img align="center" src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/akshay-chauhan-6911561b0/" height="30" width="100" /></a>
+     <a href="https://github.com/Mritunjay0001" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/Mritunjay0001" height="30" width="100" /></a>
+  <a href="akshaysingh906022@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="akshaysingh906022@gmail.com" height="30" width="100" /></a>
 </p>
   
 <br>
@@ -68,12 +68,12 @@
 <hr />
 <h2>📊 My Github Stats</h2><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishu0428&show_icons=true&locale=en&layout=compact&bg_color=0D1117&theme=react&hide_border=true" alt="vaishu0428" /></p><br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428"/></p><br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001"/></p><br>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></p><br> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001" /></p><br> -->
 
   <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&bg_color=0D1117" alt="Vaishu0428"  /></p><br>
-<a href="https://github.com/Vaishnavi-Chaudhari/github-readme-activity-graph"><img alt="Vaishnavi Chaudhari Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishu0428&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Vaishnavi-Chaudhari/github-readme-activity-graph"><img alt="Mritunjay Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishu0428&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
 
 <h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
