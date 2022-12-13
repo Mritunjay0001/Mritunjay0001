@@ -68,7 +68,7 @@
 <hr />
 <!-- <h2>📊 My Github Stats</h2><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishu0428&show_icons=true&locale=en&layout=compact&bg_color=0D1117&theme=react&hide_border=true" alt="vaishu0428" /></p><br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001"/></p><br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mritunjay0001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001"/></p><br>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001" /></p><br> -->
 
