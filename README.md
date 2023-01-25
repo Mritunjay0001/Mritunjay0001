@@ -1,7 +1,7 @@
-<!-- <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473x0h6z25ch2337duxm3gapo46tl3l3s8kjnuxp08&rid=200w.webp&ct=g"> -->
+<img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473x0h6z25ch2337duxm3gapo46tl3l3s8kjnuxp08&rid=200w.webp&ct=g">
      
 
-<img  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473x0h6z25ch2337duxm3gapo46tl3l3s8kjnuxp08&rid=200w.webp&ct=g" > 
+<!-- <img  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e473x0h6z25ch2337duxm3gapo46tl3l3s8kjnuxp08&rid=200w.webp&ct=g" >  -->
 <h1 align="center">Hi 👋, I'm Mritunjay Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
