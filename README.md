@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MREN**
 
 - 💬 Ask me about **HTML, CSS, Chakra, JavaScript, React , DSA.**
 
