@@ -68,7 +68,7 @@
  </div>
  <div  align="center">
   <h3 align="center">App Development</h3>
-   <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"?style=for-the-badge&logo=heroku&logoColor=white" align="center" width=50px alt="git"/>
    <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
  </div>
 </div>
