@@ -72,15 +72,14 @@
    <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"?style=for-the-badge&logo=heroku&logoColor=white" align="center"  width=50px alt="git"/>
  </div>
 </div>
-
 <hr />
 <!-- <h2>📊 My Github Stats</h2><br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishu0428&show_icons=true&locale=en&layout=compact&bg_color=0D1117&theme=react&hide_border=true" alt="vaishu0428" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishu0428&show_icons=true&locale=en&layout=compact&bg_color=0D1117&theme=react&hide_border=true" alt="Mritunjay0001" /></p><br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mritunjay0001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001"/></p><br>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay0001&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001" /></p><br> -->
 
-  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay0001&theme=react&bg_color=0D1117" alt="Vaishu0428"  /></p><br>
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjay0001&theme=react&bg_color=0D1117" alt="Mritunjay0001"  /></p><br>
 <a href="https://github.com/Mritunjay0001/github-readme-activity-graph"><img alt="Mritunjay Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mritunjay0001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br> -->
  <br/>
