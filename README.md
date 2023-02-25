@@ -87,6 +87,7 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/Mritunjay0001/github-readme-stats"><img alt="Mritunjay0001 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mritunjay0001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001" /></a>
     </p> 
+    <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"?style=for-the-badge&logo=heroku&logoColor=white" align="center"  width=50px alt="git"/>
 
 <h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
 
