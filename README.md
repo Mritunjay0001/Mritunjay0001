@@ -83,11 +83,11 @@
 <a href="https://github.com/Mritunjay0001/github-readme-activity-graph"><img alt="Mritunjay Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mritunjay0001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br> -->
  <br/>
- 
+<!--  
      <p align="center">                                                                                                 
     <a href="https://github.com/Mritunjay0001/github-readme-stats"><img alt="Mritunjay0001 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mritunjay0001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mritunjay0001" /></a>
     </p> 
-  
+   -->
 
 <h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
 
