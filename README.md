@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, Chakra, JavaScript, React , DSA.**
 
-- 📄 Know about my experiences <a>Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gng3N5D87ix8ghyr3W5khY8aUvPSeuNZ/view?usp=sharing">Resume</a>
 
 - 💞️ I’m looking to collaborate on **Projects**
 
